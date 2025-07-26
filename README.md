@@ -1,6 +1,6 @@
-#GlassBox AI – Making AI Fair, Transparent & Accountable
+GlassBox AI – Making AI Fair, Transparent & Accountable
 
-Hey there 👋  
+Hey there!
 Welcome to the project repository for **GlassBox AI**, our finalist submission for **SAP HackFest 2025**. Out of 4000+ teams, we were proud to make it to the Top 200 National Finalists.
 This project is about building trust in AI systems by detecting bias, promoting fairness, and making AI decisions explainable — turning black-box models into transparent, glass-box systems.
 
